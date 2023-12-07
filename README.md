@@ -1,7 +1,7 @@
 # PrintfulPy
 ## Printful API Wrapper for Python
 
-This Python package provides a convenient wrapper for interacting with the [Printful API](https://www.developers.printful.com/docs) within your Python applications. It simplifies the process of integrating Printful's services into your projects, enabling seamless management of products, orders, shipments, and more.
+This Python package provides a convenient wrapper for interacting with the [Printful API](https://developers.printful.com/docs) within your Python applications. It simplifies the process of integrating Printful's services into your projects, enabling seamless management of products, orders, shipments, and more.
 
 ## Installation
 
@@ -57,7 +57,7 @@ print(order_info)
 
 ## Documentation
 
-For detailed information on available methods and their parameters, refer to the [Printful API documentation](https://www.developers.printful.com/docs).
+For detailed information on available methods and their parameters, refer to the [Printful API documentation](https://developers.printful.com/docs).
 
 ## Contributing
 
